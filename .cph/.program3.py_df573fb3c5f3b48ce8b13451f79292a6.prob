@@ -1,1 +1,0 @@
-{"name":"Local: program3","url":"d:\\HARIS P M_23CSR075_CODING\\program3.py","tests":[{"id":1778751272619,"input":"the cat and the dog and the bird","output":"the"},{"id":1778751515773,"input":"Hello world hello","output":"hello"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\HARIS P M_23CSR075_CODING\\program3.py","group":"local","local":true}
