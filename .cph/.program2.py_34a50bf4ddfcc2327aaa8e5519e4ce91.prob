@@ -1,0 +1,1 @@
+{"name":"Local: program2","url":"d:\\HARIS P M_23CSR075_CODING\\program2.py","tests":[{"id":1778750094920,"input":"A man a plan a canal Panama","output":"True"},{"id":1778750119584,"input":"No lemon, no melon","output":"True"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\HARIS P M_23CSR075_CODING\\program2.py","group":"local","local":true}
